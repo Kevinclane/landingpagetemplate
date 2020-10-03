@@ -16,6 +16,11 @@
     width: 30vw
   }
 }
+
+.box-shadow{
+  box-shadow: 4px 4px 5px black;
+}
+
 /*!
  * Bootstrap v4.4.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
