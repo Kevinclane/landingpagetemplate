@@ -1,11 +1,21 @@
-.techImg3 {
-  width: 30vw
-}
-.techImg {
-  width: 10vw;
-}
 
 
+@media (min-width: 0px){
+  .techImg{
+    width: 25vw;
+  }
+  .techImg3{
+    width: 75vw;
+  }
+}
+@media (min-width: 992px) {
+  .techImg-lg {
+    width: 10vw;
+  }
+  .techImg3-lg {
+    width: 30vw
+  }
+}
 /*!
  * Bootstrap v4.4.1 (https://getbootstrap.com/)
  * Copyright 2011-2019 The Bootstrap Authors
